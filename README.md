@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
