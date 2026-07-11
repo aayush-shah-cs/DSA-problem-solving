@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
