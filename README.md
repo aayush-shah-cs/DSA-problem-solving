@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 ## Dynamic Programming
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 ## Math
 |  |
 | ------- |
