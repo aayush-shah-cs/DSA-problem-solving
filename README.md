@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 ## Math
 |  |
 | ------- |
