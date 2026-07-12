@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 ## Math
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
