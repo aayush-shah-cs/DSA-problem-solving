@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -116,10 +117,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
