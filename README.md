@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 ## Linked List
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
