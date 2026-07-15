@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -168,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
