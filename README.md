@@ -164,19 +164,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Number Theory
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
