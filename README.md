@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0078-subsets) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
