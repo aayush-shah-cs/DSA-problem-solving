@@ -5,8 +5,12 @@ public:
         return GCD(b,a%b);
     }
     int findGCD(vector<int>& nums) {
-        int n = nums.size();
-        sort(nums.begin(),nums.end());
-        return GCD(nums[0],nums[n-1]);
+        int maxi = nums[0];
+        int mini = nums[0];
+        for(auto val : nums){
+            mini = min(val,mini);
+            maxi = max(val,maxi);
+        }
+        return GCD(maxi,mini);
     }
 };
