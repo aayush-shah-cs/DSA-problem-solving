@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
