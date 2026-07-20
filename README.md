@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -205,8 +206,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
