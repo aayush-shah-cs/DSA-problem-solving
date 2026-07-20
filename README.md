@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
+| [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
+| [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Memoization
 |  |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
