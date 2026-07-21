@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Number Theory
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
