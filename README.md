@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2942-find-words-containing-character) |
+| [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
+| [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 ## Union-Find
 |  |
 | ------- |
