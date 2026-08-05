@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2942-find-words-containing-character](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2942-find-words-containing-character) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
