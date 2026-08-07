@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
