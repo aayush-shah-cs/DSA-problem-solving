@@ -318,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
