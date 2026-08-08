@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0045-jump-game-ii) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
+| [0018-4sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0088-merge-sorted-array) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0088-merge-sorted-array) |
