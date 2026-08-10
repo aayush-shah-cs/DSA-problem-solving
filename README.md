@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0086-partition-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0086-partition-list) |
+| [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
@@ -343,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1683-invalid-tweets](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1683-invalid-tweets) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
