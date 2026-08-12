@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0543-diameter-of-binary-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Number Theory
 |  |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Game Theory
 |  |
 | ------- |
@@ -362,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
