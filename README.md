@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
@@ -381,4 +383,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+## Quicksort
+|  |
+| ------- |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 <!---LeetCode Topics End-->
