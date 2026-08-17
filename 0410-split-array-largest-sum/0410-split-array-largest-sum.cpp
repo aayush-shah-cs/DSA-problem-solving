@@ -1,47 +1,29 @@
 class Solution {
 public:
-    bool canSplit(const vector<int>& nums, int n, int k, int maxSum) {
-        int subarrayCount = 1;
-        int currentSum = 0;
-        
-        for (int i = 0; i < n; i++) {
-            if (nums[i] > maxSum) {
-                return false;
-            }
-            if (currentSum + nums[i] <= maxSum) {
-                currentSum += nums[i];
-            } else {
-                subarrayCount++;
-                currentSum = nums[i];
-            }
-        }
-        return subarrayCount <= k;
-    }
-
     int splitArray(vector<int>& nums, int k) {
         int n = nums.size();
-        int sum = 0;
-        int maxVal = 0;
         
+        // Prefix sums to get subarray sums in O(1)
+        vector<long long> prefixSum(n + 1, 0);
         for (int i = 0; i < n; i++) {
-            sum += nums[i];
-            maxVal = max(maxVal, nums[i]);
+            prefixSum[i + 1] = prefixSum[i] + nums[i];
         }
 
-        int start = maxVal;
-        int end = sum;
-        int ans = -1;
+        // dp[i][j] = min max sum of splitting first i elements into j subarrays
+        vector<vector<long long>> dp(n + 1, vector<long long>(k + 1, LLONG_MAX));
+        dp[0][0] = 0;
 
-        while (start <= end) {
-            int mid = start + (end - start) / 2;
-            if (canSplit(nums, n, k, mid)) {
-                ans = mid;
-                end = mid - 1;
-            } else {
-                start = mid + 1;
+        for (int i = 1; i <= n; i++) {
+            for (int j = 1; j <= k; j++) {
+                // Split point p between j-1 and i-1
+                for (int p = j - 1; p < i; p++) {
+                    long long currentSubarraySum = prefixSum[i] - prefixSum[p];
+                    long long largestSum = max(dp[p][j - 1], currentSubarraySum);
+                    dp[i][j] = min(dp[i][j], largestSum);
+                }
             }
         }
 
-        return ans;
+        return dp[n][k];
     }
 };
