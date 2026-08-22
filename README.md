@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
+| [0896-monotonic-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
