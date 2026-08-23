@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
+| [1688-count-of-matches-in-tournament](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1688-count-of-matches-in-tournament) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2469-convert-the-temperature) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
