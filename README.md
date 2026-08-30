@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0263-ugly-number) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2390-removing-stars-from-a-string) |
