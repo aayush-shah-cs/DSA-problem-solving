@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2390-removing-stars-from-a-string) |
 ## Design
 |  |
@@ -474,4 +476,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
