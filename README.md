@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2000-reverse-prefix-of-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2000-reverse-prefix-of-word) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -483,4 +485,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
