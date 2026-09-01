@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0389-find-the-difference) |
+| [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
@@ -495,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
