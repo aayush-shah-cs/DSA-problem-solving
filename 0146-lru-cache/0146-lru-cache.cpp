@@ -21,22 +21,16 @@ public:
 
     unordered_map<int,node*>mp;
     int capacity;
-  
-    node * head = new node(0,0);
-    node * tail = new node(0,0);
+    node* head = new node(0,0);
+    node* tail = new node(0,0);
     
-
-    
-    LRUCache(int capacity)
-    {
+    LRUCache(int capacity){
         this->capacity = capacity;
         head->next=tail;
         tail->prev= head;
-        
     }
 
-    void insert ( node* currnode)
-    {
+    void insert ( node* currnode){
         currnode->next = head->next;                      
         head->next->prev = currnode;
         head->next= currnode;
@@ -44,42 +38,30 @@ public:
         mp[currnode->key]=currnode;                  
     }
      
-    void remove(node* currnode)
-    {
+    void remove(node* currnode){
         mp.erase(currnode->key);
         currnode->next->prev =currnode->prev;
         currnode->prev->next=currnode->next;
        
     }
-  
-  
-    int get(int key) 
-    {
-
-        if(mp.find(key)==mp.end())
-        {
+    int get(int key) {
+        if(mp.find(key)==mp.end()){
             return -1;
         }
-
         node *currnode = mp[key];
         remove(currnode);
         insert(currnode);
         return currnode->val;
-        
     }
     
-    void put(int key, int value)
-    {
+    void put(int key, int value){
 
-        if(mp.find(key)!=mp.end())
-        {
+        if(mp.find(key)!=mp.end()){
             remove(mp[key]);
         }
-        if(mp.size()==capacity)
-        {
+        if(mp.size()==capacity){
             remove(tail->prev);
         }
         insert(new node(key,value));
-        
     }
 };
