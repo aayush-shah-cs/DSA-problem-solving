@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Math
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Hash Table
 |  |
 | ------- |
