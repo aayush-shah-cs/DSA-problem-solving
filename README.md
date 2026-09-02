@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3857-minimum-cost-to-split-into-ones) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
