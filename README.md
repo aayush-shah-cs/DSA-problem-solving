@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0086-partition-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
@@ -514,4 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0739-daily-temperatures) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
