@@ -1,11 +1,11 @@
 class Solution {
 public:
+//gready approach
     bool canJump(vector<int>& nums) {
-        int n = nums.size();
         int maxIdx = 0;
-        for(int i=0;i<n;i++){
+        for(int i=0;i<nums.size();i++){
             if(i > maxIdx) return false;
-            maxIdx = max(maxIdx, i + nums[i]);
+            maxIdx = max(maxIdx,i+nums[i]);
         }
         return true;
     }
