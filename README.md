@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0860-lemonade-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0896-monotonic-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0860-lemonade-change) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
