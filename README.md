@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1619-mean-of-array-after-removing-some-elements) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0860-lemonade-change) |
+| [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
