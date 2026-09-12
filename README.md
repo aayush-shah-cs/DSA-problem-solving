@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0526-beautiful-arrangement) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0187-repeated-dna-sequences) |
 | [0389-find-the-difference](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0412-fizz-buzz) |
+| [0516-longest-palindromic-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
