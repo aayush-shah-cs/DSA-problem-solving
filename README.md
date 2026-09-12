@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Math
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0875-koko-eating-bananas) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 ## Combinatorics
