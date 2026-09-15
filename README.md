@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0187-repeated-dna-sequences) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
