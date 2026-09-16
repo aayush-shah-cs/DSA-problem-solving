@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
