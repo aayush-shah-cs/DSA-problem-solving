@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -621,4 +625,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1044-longest-duplicate-substring) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
