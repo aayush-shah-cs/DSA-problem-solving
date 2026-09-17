@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1866-number-of-ways-to-rearrange-sticks-with-k-sticks-visible) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0875-koko-eating-bananas) |
 | [1044-longest-duplicate-substring](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1044-longest-duplicate-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
 |  |
@@ -274,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [1044-longest-duplicate-substring](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1044-longest-duplicate-substring) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
