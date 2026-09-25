@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Memoization
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0743-network-delay-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Function
 |  |
 | ------- |
