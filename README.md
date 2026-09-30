@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1044-longest-duplicate-substring) |
 | [1096-brace-expansion-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2000-reverse-prefix-of-word) |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
