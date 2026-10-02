@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3903-smallest-stable-index-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3904-smallest-stable-index-ii) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
+| [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Sorting
 |  |
 | ------- |
