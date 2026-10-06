@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
+| [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2942-find-words-containing-character](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2974-minimum-number-game) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2469-convert-the-temperature](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2469-convert-the-temperature) |
+| [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0526-beautiful-arrangement) |
+| [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
