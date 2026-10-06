@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1044-longest-duplicate-substring](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1044-longest-duplicate-substring) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0739-daily-temperatures) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -654,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
