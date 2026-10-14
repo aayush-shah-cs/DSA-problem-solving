@@ -1,17 +1,17 @@
 class Solution {
 public:
     vector<vector<int>> sortTheStudents(vector<vector<int>>& score, int k) {
-        // for(int i=1;i<score.size();i++){
-        //     for(int j=k;j<score[0].size();j++){
-        //         if(score[i][j] > score[i-1][j]){
-        //             swap(score[i][j],score[i-1][j]);
-        //         }
-        //     }
-        // }
-        // return score;
-        sort(score.begin(), score.end(), [k](const vector<int>& a, const vector<int>& b) {
-            return a[k] > b[k];
-        });
+        int n = score.size();
+
+        for(int i = 0; i < n - 1; i++) {
+            for(int j = 0; j < n - i - 1; j++) {
+
+                if(score[j][k] < score[j + 1][k]) {
+                    swap(score[j], score[j + 1]);
+                }
+            }
+        }
+
         return score;
     }
 };
