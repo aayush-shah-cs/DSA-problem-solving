@@ -1,6 +1,8 @@
 class Solution {
 public: 
+
     vector<vector<int>> direction={{0,1},{1,0},{0,-1},{-1,0}};
+
     void dfs(int i,int j,int n,int m,vector<vector<int>>& matrix, vector<int>& ans,vector<vector<bool>>& vis,int d){
         if(i >=n || j >= m || i<0||j<0|| vis[i][j]) return;
         vis[i][j] = true;
