@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2974-minimum-number-game) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -757,4 +759,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
