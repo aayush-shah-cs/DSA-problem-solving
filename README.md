@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0073-set-matrix-zeroes) |
+| [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0835-image-overlap) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0113-path-sum-ii) |
+| [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0210-course-schedule-ii) |
@@ -555,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0210-course-schedule-ii) |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
