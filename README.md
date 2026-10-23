@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0526-beautiful-arrangement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0636-exclusive-time-of-functions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0682-baseball-game) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0526-beautiful-arrangement) |
+| [0542-01-matrix](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0994-rotting-oranges) |
@@ -563,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0743-network-delay-time) |
