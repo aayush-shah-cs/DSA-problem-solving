@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1572-matrix-diagonal-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1572-matrix-diagonal-sum) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Simulation
@@ -606,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0547-number-of-provinces) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
