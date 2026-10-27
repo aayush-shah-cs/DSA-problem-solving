@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
