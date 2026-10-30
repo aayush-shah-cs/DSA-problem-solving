@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0337-house-robber-iii) |
 | [0397-integer-replacement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0397-integer-replacement) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0187-repeated-dna-sequences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
 | [0389-find-the-difference](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0355-design-twitter) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
