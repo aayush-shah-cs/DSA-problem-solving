@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0337-house-robber-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
 | [1020-number-of-enclaves](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1254-number-of-closed-islands](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1254-number-of-closed-islands) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1971-find-if-path-exists-in-graph) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Function
@@ -845,4 +849,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0337-house-robber-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0337-house-robber-iii) |
+| [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
