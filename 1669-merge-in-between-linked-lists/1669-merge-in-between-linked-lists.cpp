@@ -11,17 +11,17 @@
 class Solution {
 public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) {
-        vector<ListNode*> temp_store;
-        ListNode* temp = list1;
-        while(temp != NULL){
-            temp_store.push_back(temp);
-            temp = temp->next;
+        ListNode* prevA = list1;
+        for(int i=0;i<a-1;i++){
+            prevA = prevA->next;
         }
-        ListNode* prevA = temp_store[a-1];
-        ListNode* afterB = temp_store[b+1];
+        ListNode* afterB = prevA;
+        for(int i=0;i<b-a+2;i++){
+            afterB = afterB->next;
+        }
 
         ListNode* last = list2;
-        while(last->next != NULL){
+        while(last->next != nullptr){
             last = last->next;
         }
         prevA->next = list2;
