@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2469-convert-the-temperature) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2769-find-the-maximum-achievable-number) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
 |  |
