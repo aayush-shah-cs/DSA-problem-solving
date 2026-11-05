@@ -462,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0509-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1669-merge-in-between-linked-lists) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2487-remove-nodes-from-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -516,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0739-daily-temperatures) |
+| [2487-remove-nodes-from-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
