@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0086-partition-list) |
 | [0146-lru-cache](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0206-reverse-linked-list) |
