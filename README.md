@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3833-count-dominant-indices](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -733,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
+| [3833-count-dominant-indices](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3833-count-dominant-indices) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 ## Database
 |  |
