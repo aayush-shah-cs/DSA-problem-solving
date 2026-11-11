@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3668-restore-finishing-order) |
 | [3693-climbing-stairs-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3668-restore-finishing-order](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
