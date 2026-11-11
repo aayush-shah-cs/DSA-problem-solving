@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
