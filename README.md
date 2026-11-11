@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2402-meeting-rooms-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2402-meeting-rooms-iii) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0397-integer-replacement) |
 | [0526-beautiful-arrangement](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0526-beautiful-arrangement) |
 | [1986-minimum-number-of-work-sessions-to-finish-the-tasks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1986-minimum-number-of-work-sessions-to-finish-the-tasks) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
