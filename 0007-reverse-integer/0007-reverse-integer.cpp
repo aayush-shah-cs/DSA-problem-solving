@@ -9,7 +9,7 @@ public:
             x /= 10;
         }
 
-        if(sum > INT_MAX || sum < INT_MIN) return 0;
+        if(sum > INT_MAX || sum < INT_MIN) return 0;  // just range rakh diya ,i will call it as jugaad.
         return (int)sum;
     }
 };
