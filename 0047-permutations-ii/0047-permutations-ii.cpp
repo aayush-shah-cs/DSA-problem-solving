@@ -1,24 +1,27 @@
 class Solution {
 public:
-    void uniquePermute(int idx,vector<int>& nums,vector<vector<int>>& ans){
-        if(idx == nums.size()){
-            ans.push_back({nums});
+vector<vector<int>> ans;
+    void permun(vector<int>& nums,vector<bool>& vis,vector<int>& temp){
+        if(temp.size() == nums.size()){
+            ans.push_back(temp);
             return;
         }
-        unordered_set<int> used;
-        for(int i=idx;i<nums.size();i++){
-            if(used.count(nums[i])) continue;
-            used.insert(nums[i]);
-            swap(nums[i],nums[idx]);
-            uniquePermute(idx+1,nums,ans);
-            swap(nums[i],nums[idx]);
+        for(int i=0;i<nums.size();i++){
+            if(vis[i]) continue;
+            if(i > 0 && nums[i] == nums[i-1] && !vis[i-1]) continue;
+            vis[i]=true;
+            temp.push_back(nums[i]);
+            permun(nums,vis,temp);
+            temp.pop_back();
+            vis[i]=false;
         }
     }
     vector<vector<int>> permuteUnique(vector<int>& nums) {
-        int n = nums.size();
-        vector<vector<int>> ans;
         sort(nums.begin(),nums.end());
-        uniquePermute(0,nums,ans);
+        vector<int> temp;
+        vector<bool> vis(nums.size(),false);
+
+        permun(nums,vis,temp);
         return ans;
     }
 };
