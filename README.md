@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
+| [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 | [3969-valid-subarrays-with-matching-sum-digits-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3969-valid-subarrays-with-matching-sum-digits-i) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 ## Binary Search
@@ -561,10 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
+| [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0232-implement-queue-using-stacks) |
+| [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -774,6 +777,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 ## Quicksort
 |  |
 | ------- |
