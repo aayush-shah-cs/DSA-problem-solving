@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3295-report-spam-message](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3295-report-spam-message) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3295-report-spam-message](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3295-report-spam-message) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3668-restore-finishing-order](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3668-restore-finishing-order) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3295-report-spam-message](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3295-report-spam-message) |
 | [3498-reverse-degree-of-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sliding Window
