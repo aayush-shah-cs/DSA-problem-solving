@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3701-compute-alternating-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3731-find-missing-elements) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3828-final-element-after-subarray-deletions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3828-final-element-after-subarray-deletions) |
 | [3833-count-dominant-indices](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3833-count-dominant-indices) |
 | [3875-construct-uniform-parity-array-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3828-final-element-after-subarray-deletions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3828-final-element-after-subarray-deletions) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3871-count-commas-in-range-ii) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1927-sum-game) |
+| [3828-final-element-after-subarray-deletions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3828-final-element-after-subarray-deletions) |
 ## Enumeration
 |  |
 | ------- |
@@ -912,4 +915,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0337-house-robber-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0337-house-robber-iii) |
 | [0834-sum-of-distances-in-tree](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0834-sum-of-distances-in-tree) |
+## Brainteaser
+|  |
+| ------- |
+| [3828-final-element-after-subarray-deletions](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3828-final-element-after-subarray-deletions) |
 <!---LeetCode Topics End-->
