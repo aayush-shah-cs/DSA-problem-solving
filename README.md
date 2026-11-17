@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2469-convert-the-temperature) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2523-closest-prime-numbers-in-range) |
 | [2527-find-xor-beauty-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2527-find-xor-beauty-of-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2523-closest-prime-numbers-in-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Breadth-First Search
@@ -872,14 +874,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2523-closest-prime-numbers-in-range) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/2523-closest-prime-numbers-in-range) |
 ## Shortest Path
 |  |
 | ------- |
