@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0322-coin-change) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0557-reverse-words-in-a-string-iii) |
