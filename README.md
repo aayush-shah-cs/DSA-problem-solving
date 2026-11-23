@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1331-rank-transform-of-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1137-n-th-tribonacci-number](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1512-number-of-good-pairs) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0410-split-array-largest-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0706-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 ## Queue
 |  |
@@ -802,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/1352-product-of-the-last-k-numbers) |
 | [3829-design-ride-sharing-system](https://github.com/aayush-shah-cs/DSA-problem-solving/tree/master/3829-design-ride-sharing-system) |
 ## Quicksort
 |  |
